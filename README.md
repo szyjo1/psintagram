@@ -1,5 +1,7 @@
 Stackblitz Link: https://stackblitz.com/edit/angular-ivy-rrjm1w?file=src/app/app.component.ts
 
+github host: https://szyjo1.github.io/psintagram/
+
 
 # Psintagram
 
