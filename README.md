@@ -2,7 +2,7 @@ Stackblitz Link: https://stackblitz.com/edit/angular-ivy-rrjm1w?file=src/app/app
 
 github host: https://szyjo1.github.io/psintagram/
 
-
+github(bez wykorzystania angulara): https://github.com/szyjo1/psintagram2
 # Psintagram
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
